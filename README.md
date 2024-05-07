@@ -34,4 +34,4 @@ To deploy this project run
 ## Project Live Link
 
 - I am using Vercel to deploy live
-- Live Project => (text-finder-p9j78p2q0-mayjunejulys-projects.vercel.app)
+- Live Project => text-finder-p9j78p2q0-mayjunejulys-projects.vercel.app
